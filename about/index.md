@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 关于我
+tags: [about, info, doc, profile]
+date: 2020-03-02
 comments: false
 ---
     
